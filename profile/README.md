@@ -8,7 +8,7 @@
 # 有问题反馈
 在使用中有任何问题，欢迎反馈  
 开发机器人频道: [@umfaka](https://t.me/umfaka)  
-悠米咔: [@UmiMother](https://t.me/UmiMother)  
+悠米咔: [@UmiMother](https://t.me/kaopuid)  
 
 # 打赏
 如果该项目对您有所帮助，希望可以请我喝一杯咖啡☕️
